@@ -49,7 +49,7 @@ El target de la aplicación serán particulares, principalmente de entre 18 y 40
 
  Esta aplicación cuenta con diferentes funcionalidades como categorización de gastos, creación de nuevas categorías, gráficos mensuales, semanales, diarios y anuales, recordatorios de pagos y exportación de transacciones como Excel, todo esto dentro de una interfaz sencilla y visual.
 
-- **Diagrama de arquitectura**:
+### Diagrama de arquitectura
 
 ![Diagrama de arquitectura](https://github.com/alvaroddiaz/APM/blob/a02a7b6a3cdaa2b17a176e8924257bd36a2c4f6e/Diagrama%20APM.png)
 
