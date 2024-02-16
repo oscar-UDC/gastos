@@ -34,5 +34,5 @@ Nuestro proyecto consiste en una aplicación móvil que facilite y mejore la ges
 
     
 - **Target**:
-
+El target de la aplicación serán particulares, principalmente de entre 18 y 40 años, con un estatus socioeconómico medio-bajo, con un especial interés en controlar y conocer sus gastos, los early adopters serán jóvenes de 18 a 25 años, recién independizados, que necesiten ahorrar y compartir gastos con sus compañeros de piso.
 
