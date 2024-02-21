@@ -16,6 +16,7 @@ Esta aplicación cuenta con diferentes funcionalidades como categorización de g
 
 ### BudGe
 BudGe es una aplicación que permite controlar los gastos, añadir categorías, deseos (metas de ahorro) y diferentes cuentas, además de poder agregar transacciones recurrentes como suscripciones o salarios, muestra gráficas simples de gastos e ingresos, cuenta con un plan premium de 15,99€ anuales, o 2,19€ al mes, que permite un análisis mas detallado de los gastos, gráficas más interesantes y una personalización más exhaustiva, además de eliminar los límites tanto para deseos como para cuentas.
+
 <img src="https://github.com/alvaroddiaz/APM/assets/72129484/fed7c28f-0a5e-4350-92e5-126c8a729244" width="15%" height="15%">
 <img src="https://github.com/alvaroddiaz/APM/assets/72129484/60ed4e10-993e-4b93-baaa-39077e0821ed" width="15%" height="15%">
 <img src="https://github.com/alvaroddiaz/APM/assets/72129484/af402ca4-ada0-4186-9d7d-4a219d9a938a" width="15%" height="15%">
