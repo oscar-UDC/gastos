@@ -26,7 +26,17 @@ BudGe es una aplicación que permite controlar los gastos, añadir categorías, 
 <img src="https://github.com/alvaroddiaz/APM/assets/72129484/8112d834-f78a-4bea-be56-b81c954c60a5" width="15%" height="15%">
 <img src="https://github.com/alvaroddiaz/APM/assets/72129484/fed7c28f-0a5e-4350-92e5-126c8a729244" width="15%" height="15%">
 <img src="https://github.com/alvaroddiaz/APM/assets/72129484/60ed4e10-993e-4b93-baaa-39077e0821ed" width="15%" height="15%">
+</p>
 
+### Tricount
+
+Tricount es una aplicación más enfocada en la creación de grupos y reparto de gastos, en ella se pueden crear diferentes grupos, como por ejemplo gastos de hogar o entre amigos, y añadir lo que se ha gastado, quién lo ha pagado y entre cuántas personas se ha realizado ese desembolso, automáticamente calculará la mejor forma de cuadrar las cuentas entre todos los integrantes, además, cuenta con un apartado de chat que permite comunicarse a los distintos miembros del grupo.
+
+<p align="center">
+<img src="https://github.com/alvaroddiaz/APM/assets/72129484/7598ed40-f8a6-4787-be63-6fb536e5ae33" width="15%" height="15%">
+<img src="https://github.com/alvaroddiaz/APM/assets/72129484/b53ee90d-a971-4c54-b01b-0e4a3a9afca8" width="15%" height="15%">
+<img src="https://github.com/alvaroddiaz/APM/assets/72129484/4787981e-89dd-42c8-a241-d99552a584fa" width="15%" height="15%">
+<img src="https://github.com/alvaroddiaz/APM/assets/72129484/169b16b4-3330-4fd3-a5fd-ed901ca31916" width="15%" height="15%">
 </p>
 
 
