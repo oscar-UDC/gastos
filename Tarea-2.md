@@ -4,7 +4,9 @@ El target de la aplicación serán particulares, principalmente de entre 18 y 40
 
 ## Estudio de mercado
 
-### Gestor de gastos:
+### Gestor de gastos
+
+Esta aplicación cuenta con diferentes funcionalidades como categorización de gastos, creación de nuevas categorías, gráficos mensuales, semanales, diarios y anuales, recordatorios de pagos y exportación de transacciones como Excel, todo esto dentro de una interfaz sencilla y visual.
 
 <img src="https://github.com/alvaroddiaz/APM/assets/72129484/289936f2-75c8-42b3-a1d1-118b8f85642a" width="15%" height="15%">
 <img src="https://github.com/alvaroddiaz/APM/assets/72129484/a7ae9dbb-d886-49aa-86d8-4f691a0583ed" width="15%" height="15%">
@@ -12,7 +14,7 @@ El target de la aplicación serán particulares, principalmente de entre 18 y 40
 <img src="https://github.com/alvaroddiaz/APM/assets/72129484/653367c8-ddc0-402f-af60-21316170f2f8" width="15%" height="15%">
 <img src="https://github.com/alvaroddiaz/APM/assets/72129484/f11d6d5e-cec8-451e-b260-3428ea6cc709" width="15%" height="15%">
 
- Esta aplicación cuenta con diferentes funcionalidades como categorización de gastos, creación de nuevas categorías, gráficos mensuales, semanales, diarios y anuales, recordatorios de pagos y exportación de transacciones como Excel, todo esto dentro de una interfaz sencilla y visual.
+
 
 ## Diagrama de arquitectura
 
