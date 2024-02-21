@@ -23,8 +23,8 @@ BudGe es una aplicación que permite controlar los gastos, añadir categorías, 
 <p align="center">
 <img src="https://github.com/alvaroddiaz/APM/assets/72129484/af402ca4-ada0-4186-9d7d-4a219d9a938a" width="15%" height="15%">
 <img src="https://github.com/alvaroddiaz/APM/assets/72129484/3933ba8d-9c9d-497b-9bf7-76d3a56b5554" width="15%" height="15%">
-<img src="https://github.com/alvaroddiaz/APM/assets/72129484/fed7c28f-0a5e-4350-92e5-126c8a729244" width="15%" height="15%">
 <img src="https://github.com/alvaroddiaz/APM/assets/72129484/60ed4e10-993e-4b93-baaa-39077e0821ed" width="15%" height="15%">
+<img src="https://github.com/alvaroddiaz/APM/assets/72129484/fed7c28f-0a5e-4350-92e5-126c8a729244" width="15%" height="15%">
 <img src="https://github.com/alvaroddiaz/APM/assets/72129484/8112d834-f78a-4bea-be56-b81c954c60a5" width="15%" height="15%">
 </p>
 
