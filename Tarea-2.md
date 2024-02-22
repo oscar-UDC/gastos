@@ -48,10 +48,15 @@ Settle Up es una aplicación sencilla centrada en la creación de grupos y contr
 <img src="https://github.com/alvaroddiaz/APM/assets/112855052/d76a62fc-9ecc-4961-9141-772e0d23aec9" width="15%" height="15%">
 <img src="https://github.com/alvaroddiaz/APM/assets/112855052/ce2c6d41-3c27-4262-b3a6-89758c3c3f2b" width="15%" height="15%">
 <img src="https://github.com/alvaroddiaz/APM/assets/112855052/a3e88ae3-650d-4bf2-98d2-9f6a600da28d" width="15%" height="15%">
-
-
-
 </p>
+
+### Ventaja competitiva
+Una vez hecha esta pequeña revisión de la competencia consideramos que nuestro principal punto de diferenciación consiste en el escaneado de facturas y la clasificación de gastos. Estas dos características tanto por el desarrollo como por los conocimientos que implican, nos parecen el punto diferencial de nuestra aplicación respecto de las de la competencia.
+
+### Fidelización
+Nuestra intención con esta aplicación es fomentar y ayudar en la gestión del gasto particular a las personas. Debido a esto nos centraremos en proporcionar una aplicación útil y sencilla con una interfaz muy agradable que facilite su uso. Creemos firmemente que la mejor forma de fidelizar a un cliente es aportarle valor, pero sobre todo proporcionarle una buena interfaz que no le sea pesada de utilizar ni visualizar.
+Adicionalmente, otro punto que consideramos clave en la fidelización del cliente es la mejora continua de la aplicación implementando pequeños cambios que den la sensación de dinamismo y evolución en la aplicación.
+Por último, otras opciones que valoramos a medio plazo son recompensas mediante programas de lealtad dando acceso a funciones de pago temporalmente a clientes que mantengan actualizados sus datos y empleen la aplicación de forma recurrente. Un ejemplo de aplicación podría ser mantener una racha de semanas en las que se empleo la aplicación y en función del tamaño de la racha dar diferentes recompensas.
 
 ## Diagrama de arquitectura
 
