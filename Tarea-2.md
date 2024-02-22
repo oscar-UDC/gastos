@@ -39,6 +39,11 @@ Tricount es una aplicación más enfocada en la creación de grupos y reparto de
 <img src="https://github.com/alvaroddiaz/APM/assets/72129484/169b16b4-3330-4fd3-a5fd-ed901ca31916" width="15%" height="15%">
 </p>
 
+### Settle Up
+Settle Up es una aplicación sencilla centrada en la creación de grupos y control de gastos entre los diferentes miembros, pudiendo incluso mandar recordatorios de lo que debe cada miembro directamente desde la aplicación. Además calcula automáticamente quién debe dinero del grupo. Una de las características que la diferencia un poco del resto es que permite buscar grupos que estén cercanos a nosotros, sin necesidad de utilizar un link, todo a través de Bluetooth.
+
+<p align="center">
+</p>
 
 ## Diagrama de arquitectura
 
