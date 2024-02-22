@@ -55,4 +55,4 @@ Settle Up es una aplicación sencilla centrada en la creación de grupos y contr
 
 ## Diagrama de arquitectura
 
-![Diagrama de arquitectura](https://github.com/alvaroddiaz/APM/blob/a02a7b6a3cdaa2b17a176e8924257bd36a2c4f6e/Diagrama%20APM.png)
+![Diagrama de arquitectura](https://github.com/alvaroddiaz/APM/blob/main/img/Diagrama%20APM.png)
