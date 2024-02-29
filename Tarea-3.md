@@ -9,11 +9,11 @@
 
 
 ## Mockups digitales
-![](https://github.com/alvaroddiaz/APM/blob/main/img/Mockups/Pantalla%20principal.png)
-![](https://github.com/alvaroddiaz/APM/blob/main/img/Mockups/Grupos.png)
-![](https://github.com/alvaroddiaz/APM/blob/main/img/Mockups/Grupo%20Barcelona.png)
-![](https://github.com/alvaroddiaz/APM/blob/main/img/Mockups/Nuevo%20gasto%20grupal.png)
-![](https://github.com/alvaroddiaz/APM/blob/main/img/Mockups/Categorías.png)
-![](https://github.com/alvaroddiaz/APM/blob/main/img/Mockups/Eliminar%20categorías.png)
-![](https://github.com/alvaroddiaz/APM/blob/main/img/Mockups/Graficos.png)
+<img src="https://github.com/alvaroddiaz/APM/blob/main/img/Mockups/Pantalla%20principal.png" width="200" height="200">
+<img src="https://github.com/alvaroddiaz/APM/blob/main/img/Mockups/Grupos.png" width="200" height="200">
+<img src="https://github.com/alvaroddiaz/APM/blob/main/img/Mockups/Grupo%20Barcelona.png" width="200" height="200">
+<img src="https://github.com/alvaroddiaz/APM/blob/main/img/Mockups/Nuevo%20gasto%20grupal.png" width="200" height="200">
+<img src="https://github.com/alvaroddiaz/APM/blob/main/img/Mockups/Categorías.png" width="200" height="200">
+<img src="https://github.com/alvaroddiaz/APM/blob/main/img/Mockups/Eliminar%20categorías.png" width="200" height="200">
+<img src="https://github.com/alvaroddiaz/APM/blob/main/img/Mockups/Graficos.png" width="200" height="200">
 
