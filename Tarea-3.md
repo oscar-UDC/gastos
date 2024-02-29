@@ -17,5 +17,4 @@
 <img src="https://github.com/alvaroddiaz/APM/blob/main/img/Mockups/Eliminar%20categorías.png" width="25%" height="25%">
 <img src="https://github.com/alvaroddiaz/APM/blob/main/img/Mockups/Graficos.png" width="25%" height="25%">
 
-https://design.penpot.app/#/view/93d0ad32-dfe5-8194-8003-f0e6aaa96a5b?page-id=93d0ad32-dfe5-8194-8003-f0e6aaa96a5c&section=interactions&index=2
-
+[Enlace mockups](https://design.penpot.app/#/view/93d0ad32-dfe5-8194-8003-f0e6aaa96a5b?page-id=93d0ad32-dfe5-8194-8003-f0e6aaa96a5c&section=interactions&index=0)
