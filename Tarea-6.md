@@ -10,11 +10,11 @@
 * Reconocimiento de facturas
 
 ### ¿Qué se va a implementar con fragments?
-Vista personal
-Vista grupal
-Gráfica de gastos
-Gráfica de estadísticas
-Gastos en cada pantalla
+* Vista personal
+* Vista grupal
+* Gráfica de gastos
+* Gráfica de estadísticas
+* Gastos en cada pantalla
 
 ### ¿Quién lanza a quién y quién hace uso de los fragments o los servicios?
 La actividad principal (MainActivity) lanza el fragment de vista Personal, en el cual se puede ver los distintos gastos y la gráfica, este fragment lanza la actividad que permite ver las estadísticas (StatsActivity) y la actividad que visualiza las categorías (CategoriesActivity) desde la que se lanza la actividad para crear categorías (CreateCategoriesActivity), además, desde el fragment de vista Personal, se puede crear un nuevo gasto (GastoActivity), que usará el servicio de Adición de gastos y Reconocimiento de facturas, de la misma forma, desde el fragment de vista Grupal se puede acceder a distintos grupos en los que se carga el fragment de gastos y el de la gráfica, de la misma forma que en la vista Personal y se lanza la actividad de creación de un nuevo gasto grupal (GastoGrupoActivity).
