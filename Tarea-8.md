@@ -1,2 +1,2 @@
-Se usa geolocalización como campo en los gastos tanto personales como en grupos, indicando el lugar en el que se ha realizado el gasto. 
+Se usa geolocalización en los gastos personales, indicando el lugar en el que se ha creado el gasto, pidiendo los permisos pertinentes. 
 Además, se ha añadido el registro e inicio de sesión con Google.
