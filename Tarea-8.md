@@ -1,0 +1,1 @@
+Se usa geolocalización como campo en los gastos tanto personales como en grupos, indicando el lugar en el que se ha realizado el gasto. 
