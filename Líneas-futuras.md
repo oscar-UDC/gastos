@@ -4,15 +4,13 @@
 
 
 1. Código de la prueba realizada: 
-<img src="https://github.com/alvaroddiaz/APM/assets/112855052/c43bef06-cb6c-44b0-8f69-bf155598f3fe" width="500">
-***
+<img src="https://github.com/alvaroddiaz/APM/assets/112855052/c43bef06-cb6c-44b0-8f69-bf155598f3fe" width="500" align="center">
 
 2. Ejemplo de la salida de la ejecución del código de prueba: 
-<img src="https://github.com/alvaroddiaz/APM/assets/112855052/5b491fe9-fee8-4653-9ed8-9680eb4fd386" width="500">
-***
+<img src="https://github.com/alvaroddiaz/APM/assets/112855052/5b491fe9-fee8-4653-9ed8-9680eb4fd386" width="500" align="center">
 
 3. Procesado de la salida por ChatGPT: 
-<img src="https://github.com/alvaroddiaz/APM/assets/112855052/98fd6c3d-be71-4e0d-945e-1532e8c3bb14" width="500">
+<img src="https://github.com/alvaroddiaz/APM/assets/112855052/98fd6c3d-be71-4e0d-945e-1532e8c3bb14" width="500" align="center">
 
 
 
