@@ -6,4 +6,7 @@
 ![ProcesadoOpenCVChatGPT](https://github.com/alvaroddiaz/APM/assets/112855052/98fd6c3d-be71-4e0d-945e-1532e8c3bb14)
 
 
+<img src="https://github.com/alvaroddiaz/APM/assets/112855052/c43bef06-cb6c-44b0-8f69-bf155598f3fe" width="100" height="100">
+
+
 
