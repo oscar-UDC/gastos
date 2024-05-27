@@ -1,4 +1,3 @@
-# Tecnologías utilizadas en la creación de la Aplicación CashApp
 * **Firebase**: Se ha utilizado Firebase para almacenar la información de:
 > 1. Autenticación de usuarios.
 > 2. Grupos de usuarios.
