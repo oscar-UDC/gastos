@@ -1,4 +1,4 @@
-* **Firebase**: Se ha utilizado Firebase para almacenar la información de:
+* **Firebase**: Se ha utilizado Firebase para almacenar, borrar y buscar la información de:
 > 1. Autenticación de usuarios.
 > 2. Grupos de usuarios.
 > 3. Gastos, tanto personales como de grupos.
