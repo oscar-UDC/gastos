@@ -1,6 +1,6 @@
 ### Categorías
-* Creación de categorías propias de un usuario.
-* Generación de categorías básicas para cada usuario.
+* Creación de categorías propias por el usuario.
+* Generación de categorías básicas de forma automática para cada usuario.
 * Búsqueda de categorías de un grupo.
 * Búsqueda de categorías de un usuario.
 
@@ -8,7 +8,7 @@
 * Creación de grupos.
 * Añadir miembros a un grupo durante su creación.
 * Creación y almacenamiento online de una imagen de grupo.
-* Visualización de gráficas del grupo que permitan visualizar el flujo de gastos e ingresos.
+* Visualización de gráficas del grupo que permitan visualizar balance de los participantes en el grupo.
 * Visualización de una lista de los gastos de cada grupo.
 * Creación de gastos grupales con: nombre, importe, fecha, ubicación, deudores e imagen.
 * Borrado de gastos grupales creados.
@@ -29,5 +29,5 @@
 ### Configuración
 * Guardado en el propio dispositivo de la configuración personal del usuario.
 * Ajuste del tamaño de la letra para facilitar la lectura.
-* Detección de modo oscuro del dispositivo del usuario.
-* Posibilidad de cambiar manualmente a modo oscuro.
+* Detección de modo oscuro/claro del dispositivo del usuario.
+* Posibilidad de cambiar manualmente a modo oscuro/claro.
