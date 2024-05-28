@@ -27,7 +27,7 @@ Una aplicación móvil que permita:
 * Presenciales: el boca a boca.
 
 ### **Segmento de mercado (Target)**
-* El target principal será gente relativamente joven, de entre 18 y 40 años, que estén habituados a utilizar el teléfono móvil y tengan gastos * recurrentes. De todas formas, la aplicación está pensada para que cualquiera pueda utilizarla, desde empresas a particulares.
+* El target principal será gente relativamente joven, de entre 18 y 40 años, que estén habituados a utilizar el teléfono móvil y tengan gastos recurrentes. De todas formas, la aplicación está pensada para que cualquiera pueda utilizarla, desde empresas a particulares.
 
 ### **Estructura de costes**
 * Coste del desarrollo y mantenimiento de la aplicación, teniendo en cuenta que se ha utilizado un equipo de 4 desarrolladores, este sería el coste más elevado.
