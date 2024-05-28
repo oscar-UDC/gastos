@@ -1,5 +1,5 @@
 * **Uso de Room**: para mejorar la privacidad se intentó sin éxito aplicar Room para almacenar los gastos individuales.
-* **Uso de OpenCV + IA**: se planteó el uso de OpenCV + una de las IAs comunes que hay en el mercado para hacer una foto a una factura o ticket de un gasto, procesarla con OpenCV y emplear la IA para generar la plantilla del gasto que el usuario debe confirmar. En esta línea llegó a obtenerse una sencilla prueba en lenguaje Python utilizando OpenCV, la cual fue capaz de extraer la información de un ticket para despues usando ChatGPT obtener la información deseada así como una categorización automática.
+* **Uso de OpenCV + IA**: se planteó el uso de OpenCV en conjunto con una de las IAs comunes que hay en el mercado para hacer una foto a una factura o ticket de un gasto, procesarla con OpenCV y emplear la IA para generar la plantilla del gasto que el usuario debe confirmar. En esta línea llegó a obtenerse una sencilla prueba en lenguaje Python utilizando OpenCV, la cual fue capaz de extraer la información de un ticket para despues usando ChatGPT obtener la información deseada así como una categorización automática.
   
 > 1. Código de la prueba realizada: 
 <p align="center">
