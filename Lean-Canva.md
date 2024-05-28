@@ -20,11 +20,11 @@ Una aplicación móvil que permita:
 * Para grupos: agiliza la gestión de gastos compartidos, permitiendo a todos los miembros acceder a la información.
 * Seguridad: los datos solo los posee el propio usuario, la plataforma apenas mantiene unas pocas métricas de uso para conocer los usos de mayor interés en la aplicación.
 * Proporcionar tecnología de vanguardia como IA o blockchain para la gestión segura de gastos.
+* Conversión directa de facturas, recibos y tickets en gastos dentro de la aplicación.
 
 ### **Ventaja injusta**
-* Aplicación con facilidad de uso que no requiere prácticamente espacio ni gasto de datos.
-* Conversión directa de facturas, recibos y tickets en gastos dentro de la aplicación.
-* Añadir fotos que dejen constancia del gasto.
+* Aplicación con facilidad de uso, intuitiva y con una barrera de entrada casi inexistente.
+* Añadir fotos que dejen constancia del gasto. Luchar contra el amigo o familiar "despistado" es difícil, pero ahora será más difícil que se olvide.
 * Fidelizaremos al cliente manteniendo la aplicación viva con actualizaciones y mejoras continuas.
 * Seguridad, en un mundo con cada vez menos privacidad apostamos por empoderar al usuario y permitirle llevar su contabilidad de forma dinámica sin que nadie emplee sus datos.
 
