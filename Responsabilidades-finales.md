@@ -13,7 +13,7 @@
 ### Pedro CTO -> COO/CTO
 - Gastos individuales
 - Geolocalización
-- Pruebas de concepto
+- Pruebas de concepto con OpenCV
 
 ### Alexandre COO -> CTO/CXO
 - Personalización
