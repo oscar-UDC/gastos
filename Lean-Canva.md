@@ -1,6 +1,7 @@
 ### **Problemas**
 * Dificultad para controlar gastos tanto personales como de grupos de familiares y amigos.
 * Calcular cuanto debe alguien en un grupo cuando varios gastan dinero.
+* Falta de privacidad.
 
 ### **Solución**
 Una aplicación móvil que permita:
@@ -18,6 +19,7 @@ Una aplicación móvil que permita:
 * Para personas individuales: facilita la gestión de gastos personales.
 * Para grupos: agiliza la gestión de gastos compartidos, permitiendo a todos los miembros acceder a la información.
 * Seguridad: los datos solo los posee el propio usuario, la plataforma apenas mantiene unas pocas métricas de uso para conocer los usos de mayor interés en la aplicación.
+* Proporcionar tecnología de vanguardia como IA o blockchain para la gestión segura de gastos.
 
 ### **Ventaja injusta**
 * Aplicación con facilidad de uso que no requiere prácticamente espacio ni gasto de datos.
