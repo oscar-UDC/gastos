@@ -43,5 +43,5 @@ Una aplicación móvil que permita:
 
 ### **Fuentes de ingresos**
 * Publicidad en la versión gratuita.
-* Dos versiones de la aplicación, una gratuita con todas las funcionalidades básicas y una premium con funcionalidades extra. Entre estas funcionalidades premium se pueden encontrar el uso de IA para el escaneo de facturas y recibos. Adicionalmente, existirá una versión superior orientada a empresas para el manejo de gastos comunes y dietas.
+* Versiones de la aplicación, una gratuita con todas las funcionalidades básicas y una premium con funcionalidades extra. Entre estas funcionalidades premium se pueden encontrar el uso de IA para el escaneo de facturas y recibos. Adicionalmente, existirá una versión superior orientada a empresas para el manejo de gastos comunes y dietas.
 
