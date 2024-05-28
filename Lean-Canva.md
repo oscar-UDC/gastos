@@ -33,13 +33,13 @@ Una aplicación móvil que permita:
 * Presenciales: el boca a boca.
 
 ### **Segmento de mercado (Target)**
-* El target principal será gente relativamente joven, de entre 18 y 40 años, que estén habituados a utilizar el teléfono móvil y tengan gastos recurrentes. 
+* El target principal son personas jóvenes, de entre 18 y 40 años, habituadas al uso del teléfono móvil y tengan gastos recurrentes. 
 * A pesar de mantener el foco en este segmento, la aplicación se plantea como una solución general que cualquier empresa o particular pueda emplear de forma ágil.
 
 ### **Estructura de costes**
 * Coste del desarrollo y mantenimiento de la aplicación, teniendo en cuenta que se ha utilizado un equipo de 4 desarrolladores es la partida más elevada.
 * Coste de marketing y publicidad. Para darse a conocer la empresa necesita una fuerte inversión en publicidad con la que darse a conocer y empezar a obtener descargas.
-* Coste de operación. El almacenamiento, cómputo e infraestructura necesarios para mantener activa y en funcionamiento la aplicación.
+* Coste de operación. El almacenamiento, cómputo e infraestructura necesarios para mantener activa y en funcionamiento la aplicación. No son muy elevados dada la apuesta por la privacidad y seguridad implicando un mayor uso de los recursos del dispositivo cliente.
 * Coste asociados a licencias como los necesarios para estar en las diferentes tiendas de aplicaciones.
 * Otros costes a tener en cuenta son la gestión administrativa, los puestos de trabajo, la atención al cliente o la gestión de la comunidad.
 
