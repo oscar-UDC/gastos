@@ -17,18 +17,22 @@ Una aplicación móvil que permita:
 ### **Propuesta de valor**
 * Para personas individuales: facilita la gestión de gastos personales.
 * Para grupos: agiliza la gestión de gastos compartidos, permitiendo a todos los miembros acceder a la información.
-* Seguridad: los datos solo los posee el propio usuario, la plataforma apenas mantiene unas pocas métricas de uso para conocer los usos de mayor interes en la aplicación.
+* Seguridad: los datos solo los posee el propio usuario, la plataforma apenas mantiene unas pocas métricas de uso para conocer los usos de mayor interés en la aplicación.
 
 ### **Ventaja injusta**
 * Aplicación con facilidad de uso que no requiere prácticamente espacio ni gasto de datos.
-* Permite añadir fotos que el usuario que crea el gasto quiera adjuntar, como por ejemplo los propios tickets de los gastos.
+* Conversión directa de facturas, recibos y tickets en gastos dentro de la aplicación.
+* Añadir fotos que dejen constancia del gasto.
+* Fidelizaremos al cliente manteniendo la aplicación viva con actualizaciones y mejoras continuas.
+* Seguridad, en un mundo con cada vez menos privacidad apostamos por empoderar al usuario y permitirle llevar su contabilidad de forma dinámica sin que nadie emplee sus datos.
 
 ### **Canales**
 * Digitales: las stores de Apple y de Google.
 * Presenciales: el boca a boca.
 
 ### **Segmento de mercado (Target)**
-* El target principal será gente relativamente joven, de entre 18 y 40 años, que estén habituados a utilizar el teléfono móvil y tengan gastos recurrentes. De todas formas, la aplicación está pensada para que cualquiera pueda utilizarla, desde empresas a particulares.
+* El target principal será gente relativamente joven, de entre 18 y 40 años, que estén habituados a utilizar el teléfono móvil y tengan gastos recurrentes. 
+* A pesar de mantener el foco en este segmento, la aplicación se plantea como una solución general que cualquier empresa o particular pueda emplear de forma ágil.
 
 ### **Estructura de costes**
 * Coste del desarrollo y mantenimiento de la aplicación, teniendo en cuenta que se ha utilizado un equipo de 4 desarrolladores es la partida más elevada.
