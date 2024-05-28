@@ -16,8 +16,8 @@ Una aplicación móvil que permita:
 * Número de grupos creados y activos. Considerando como activos grupos que tienen al menos un gasto cada mes.
 
 ### **Propuesta de valor**
-* Para personas individuales: facilita la gestión de gastos personales.
-* Para grupos: agiliza la gestión de gastos compartidos, permitiendo a todos los miembros acceder a la información.
+* Facilitar la gestión de las finanzas personales.
+* Agilizar y facilitar la gestión de gastos compartidos, permitiendo a todos los miembros acceder a la información.
 * Seguridad: los datos solo los posee el propio usuario, la plataforma apenas mantiene unas pocas métricas de uso para conocer los usos de mayor interés en la aplicación.
 * Proporcionar tecnología de vanguardia como IA o blockchain para la gestión segura de gastos.
 * Conversión directa de facturas, recibos y tickets en gastos dentro de la aplicación.
