@@ -1,2 +1,3 @@
-Se usa geolocalización en los gastos personales, indicando el lugar en el que se ha creado el gasto, pidiendo los permisos pertinentes. 
-Además, se ha añadido el registro e inicio de sesión con Google.
+Se utiliza la geolocalización en los gastos personales y grupales para proporcionar una ubicación precisa donde se ha registrado el gasto. Al agregar un nuevo gasto, la aplicación solicita los permisos necesarios para acceder a la ubicación del dispositivo del usuario. Esto permite a los usuarios ver el lugar exacto donde se realizó cada transacción, lo que puede ser útil para el seguimiento y verificación de gastos.
+
+Además, la aplicación incluye opciones de registro e inicio de sesión con Google. Esto simplifica el proceso de creación de cuenta y acceso a la aplicación, permitiendo a los usuarios utilizar sus credenciales de Google existentes.
