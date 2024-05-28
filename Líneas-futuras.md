@@ -17,7 +17,7 @@
 </p>
 
 
-* **Uso de BD blockchain**: Se plantea como una línea evolutiva con la que superar el actual modelo de almacenamiento en Firebase para grupos para evolucionar y emplear soluciones de bases de datos en blockchain con las que aumentar la seguridad e inmutabilidad de los datos.
+* **Integración de Base de Datos en Blockchain**: Se considera una progresión hacia adelante para superar el actual modelo de almacenamiento en Firebase para grupos. Esta evolución busca mejorar la seguridad y la inmutabilidad de los datos, ofreciendo así una mayor fiabilidad y protección en el almacenamiento y gestión de la información.
 
 
 
