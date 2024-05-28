@@ -12,7 +12,7 @@ Una aplicación móvil que permita:
 ### **Métricas clave**
 * Número de usuarios que descargan y utilizan la aplicación.
 * Frecuencia de introducción de gastos.
-* Número de grupos creados y activos.
+* Número de grupos creados y activos. Considerando como activos grupos que tienen al menos un gasto cada mes.
 
 ### **Propuesta de valor**
 * Para personas individuales: facilita la gestión de gastos personales.
@@ -30,10 +30,13 @@ Una aplicación móvil que permita:
 * El target principal será gente relativamente joven, de entre 18 y 40 años, que estén habituados a utilizar el teléfono móvil y tengan gastos recurrentes. De todas formas, la aplicación está pensada para que cualquiera pueda utilizarla, desde empresas a particulares.
 
 ### **Estructura de costes**
-* Coste del desarrollo y mantenimiento de la aplicación, teniendo en cuenta que se ha utilizado un equipo de 4 desarrolladores, este sería el coste más elevado.
-* Coste de mantenimiento de licencias de las diferentes stores.
+* Coste del desarrollo y mantenimiento de la aplicación, teniendo en cuenta que se ha utilizado un equipo de 4 desarrolladores es la partida más elevada.
+* Coste de marketing y publicidad. Para darse a conocer la empresa necesita una fuerte inversión en publicidad con la que darse a conocer y empezar a obtener descargas.
+* Coste de operación. El almacenamiento, cómputo e infraestructura necesarios para mantener activa y en funcionamiento la aplicación.
+* Coste asociados a licencias como los necesarios para estar en las diferentes tiendas de aplicaciones.
+* Otros costes a tener en cuenta son la gestión administrativa, los puestos de trabajo, la atención al cliente o la gestión de la comunidad.
 
 ### **Fuentes de ingresos**
-* Publicidad.
-* Dos versiones de la aplicación, una gratis con todas las funcionalidades básicas y una premium con funcionalidades extra, como puede ser el uso de IA para el escaneo de facturas de empresas o de particulares.
+* Publicidad en la versión gratuita.
+* Dos versiones de la aplicación, una gratuita con todas las funcionalidades básicas y una premium con funcionalidades extra. Entre estas funcionalidades premium se pueden encontrar el uso de IA para el escaneo de facturas y recibos. Adicionalmente, existirá una versión superior orientada a empresas para el manejo de gastos comunes y dietas.
 
