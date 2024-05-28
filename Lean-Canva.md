@@ -1,13 +1,13 @@
 ### **Problemas**
-* Dificultad para controlar gastos tanto personales como de grupos familiares o de amigos.
-* Complejo calcular cuanto debe alguien en un grupo cuando varios gastan dinero.
+* Dificultad para controlar gastos tanto personales como de grupos de familiares y amigos.
+* Calcular cuanto debe alguien en un grupo cuando varios gastan dinero.
 
 ### **Solución**
 Una aplicación móvil que permita:
 * Crear gastos personales y grupales.
 * Crear grupos e invitar a gente a ellos.
 * Calcular cuánto debe cada persona.
-* Generación de gráficas que muestren de forma rápida los gastos e ingresos.
+* Generación de gráficas que muestren de forma rápida y detalla los gastos e ingresos.
 
 ### **Métricas clave**
 * Número de usuarios que descargan y utilizan la aplicación.
@@ -17,6 +17,7 @@ Una aplicación móvil que permita:
 ### **Propuesta de valor**
 * Para personas individuales: facilita la gestión de gastos personales.
 * Para grupos: agiliza la gestión de gastos compartidos, permitiendo a todos los miembros acceder a la información.
+* Seguridad: los datos solo los posee el propio usuario, la plataforma apenas mantiene unas pocas métricas de uso para conocer los usos de mayor interes en la aplicación.
 
 ### **Ventaja injusta**
 * Aplicación con facilidad de uso que no requiere prácticamente espacio ni gasto de datos.
